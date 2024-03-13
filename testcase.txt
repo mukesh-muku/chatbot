@@ -1,0 +1,16 @@
+Core PHP, javascript, Ajax and Mysql Database driven chatbot demo application 
+Curl based API implementations for weather report : https://api.open-meteo.com/v1/forecast
+Test case:
+Mick icons implementations for speech to text  
+manual send button implemented as well as data post through ENTER key press
+Text based search
+1. Weather forecast
+2. Current time of time zone Asia/Calcutta
+3. who are you
+4. Tell me about yourself
+5. Databased entry based search like Introduce your self
+6. who are you
+7. help
+8. about yourself 
+
+
